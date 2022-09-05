@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>indoor_night_heptance_001_frames_65.jpg</filename>
+	<path>D:\Detect\Main_folder_data_labeled\images\indoor_night_heptance_001_frames_65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>141</ymin>
+			<xmax>195</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

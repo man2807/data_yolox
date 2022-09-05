@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>indoor_night_heptance_001_frames_1.jpg</filename>
+	<path>D:\Detect\Main_folder_data_labeled\images\indoor_night_heptance_001_frames_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

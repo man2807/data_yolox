@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_unlabeled_Thanh</folder>
+	<filename>indoor_night_heptance_002_frames_755.jpg</filename>
+	<path>E:\FSoftQuyNhon\Project_FireDetection\FireProject_phase2\Data_unlabeled_Thanh\indoor_night_heptance_002_frames_755.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>96</ymin>
+			<xmax>179</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

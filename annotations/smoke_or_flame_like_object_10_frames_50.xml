@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>smoke_or_flame_like_object_10_frames_50.jpg</filename>
+	<path>D:\Detect\Main_folder_data_labeled\images\smoke_or_flame_like_object_10_frames_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>158</ymin>
+			<xmax>143</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

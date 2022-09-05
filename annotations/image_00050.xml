@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>image_00050.jpg</filename>
+	<path>D:\Detect\Main_folder_data_labeled\images\image_00050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

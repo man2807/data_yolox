@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>Data_unlabeled_Thanh</folder>
+	<filename>outdoor_daytime_10m_gasoline_CCD_001_frames_144.jpg</filename>
+	<path>E:\FSoftQuyNhon\Project_FireDetection\FireProject_phase2\Data_unlabeled_Thanh\outdoor_daytime_10m_gasoline_CCD_001_frames_144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

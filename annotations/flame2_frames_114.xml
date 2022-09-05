@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_unlabeled_Man</folder>
+	<filename>fire2_frames_114.jpg</filename>
+	<path>D:\Detect\Data_unlabeled_Man\fire2_frames_114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>44</ymin>
+			<xmax>164</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

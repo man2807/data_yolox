@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_unlabeled_Thanh</folder>
+	<filename>indoor_night_smoke_frames_20.jpg</filename>
+	<path>E:\FSoftQuyNhon\Project_FireDetection\FireProject_phase2\Data_unlabeled_Thanh\indoor_night_smoke_frames_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>120</ymin>
+			<xmax>178</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

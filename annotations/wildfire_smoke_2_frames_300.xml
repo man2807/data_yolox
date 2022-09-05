@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_unlabeled_Man</folder>
+	<filename>wildfire_smoke_2_frames_300.jpg</filename>
+	<path>D:\Detect\Data_unlabeled_Man\wildfire_smoke_2_frames_300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>110</ymin>
+			<xmax>318</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_unlabeled_Man</folder>
+	<filename>image_00012.jpg</filename>
+	<path>D:\Detect\Data_unlabeled_Man\image_00012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1984</width>
+		<height>1488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>421</ymin>
+			<xmax>1167</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>
